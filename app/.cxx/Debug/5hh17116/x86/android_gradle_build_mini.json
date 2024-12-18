@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\mcmco\\AndroidStudioProjects\\Chihuahua\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\mcmco\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\mcmco\\AndroidStudioProjects\\Chihuahua\\app\\.cxx\\Debug\\5hh17116\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\mcmco\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\mcmco\\AndroidStudioProjects\\Chihuahua\\app\\.cxx\\Debug\\5hh17116\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "chihuahua::@6890427a1f51a3e7e1df": {
+      "artifactName": "chihuahua",
+      "abi": "x86",
+      "output": "C:\\Users\\mcmco\\AndroidStudioProjects\\Chihuahua\\app\\build\\intermediates\\cxx\\Debug\\5hh17116\\obj\\x86\\libchihuahua.so",
+      "runtimeFiles": []
+    }
+  }
+}

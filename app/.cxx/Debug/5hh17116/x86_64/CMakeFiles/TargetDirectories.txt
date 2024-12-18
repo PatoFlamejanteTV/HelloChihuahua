@@ -1,0 +1,3 @@
+C:/Users/mcmco/AndroidStudioProjects/Chihuahua/app/.cxx/Debug/5hh17116/x86_64/CMakeFiles/chihuahua.dir
+C:/Users/mcmco/AndroidStudioProjects/Chihuahua/app/.cxx/Debug/5hh17116/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/mcmco/AndroidStudioProjects/Chihuahua/app/.cxx/Debug/5hh17116/x86_64/CMakeFiles/rebuild_cache.dir

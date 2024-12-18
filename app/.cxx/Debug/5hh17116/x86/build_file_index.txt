@@ -1,0 +1,1 @@
+C:\Users\mcmco\AndroidStudioProjects\Chihuahua\app\src\main\cpp\CMakeLists.txt
